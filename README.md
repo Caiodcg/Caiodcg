@@ -1,8 +1,9 @@
 Olá! eu sou o Caio D'angelis.
 
-- 🔫👮🚁  - Sou Investigador de policia, atualmente na função de Operador Aerotático.
-- 📖📚🔍  - Atualmente iniciando meus estudos em Desenvolvimento WEB. (HTML, CSS, JS, VUE...)
-  
+- 🔫👮🚁  - Investigador de polícia, atualmente na função de Operador Aerotático.
+- 📖📚🔍  - Iniciando os estudos em desenvolvimento WEB e Mobile. (HTML, CSS, JS, PHP, VUE, DART, FLUTTER...).
+- 💻🧑🏼‍💻📲  - Membro do Setor de Tecnologia da Coordenação Aerotática da PCMG.
+- 🔫🪖⭐  - Oficial de Infantaria R2 do Exército Brasileiro.
 <div align="center">
   <a href="https://github.com/Caiodcg">
   <img height="49%" src="https://github-readme-stats.vercel.app/api?username=Caiodcg&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -29,6 +30,6 @@ Olá! eu sou o Caio D'angelis.
   <a href="https://instagram.com/caiodcg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://discordapp.com/users/CAIODCG#6171" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:caiodcg@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/*****" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/caiodangelis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
